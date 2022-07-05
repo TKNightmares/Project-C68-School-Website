@@ -1,0 +1,24 @@
+body{
+    text-align:center;
+}
+
+#welcome{
+    color:whitesmoke;
+    bottom:0;
+    background: linear-gradient(#00028f,rgb(135, 0, 0) );
+    display:table;
+    height:100%;
+    width:100%;
+    z-index:9; 
+}
+
+#video iframe{
+    width:80%;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top:0;
+    z-index:99999;
+}
+
